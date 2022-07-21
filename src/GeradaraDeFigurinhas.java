@@ -29,7 +29,7 @@ public class GeradaraDeFigurinhas {
         graphics.drawImage(imagemOriginal, 0, 0, null);
 
         // configurar a fonte
-        Font font = new Font(Font.MONOSPACED, Font.BOLD, 20);
+        Font font = new Font(Font.MONOSPACED, Font.BOLD, 50);
         graphics.setFont(font);
         graphics.setColor(Color.YELLOW);
 
